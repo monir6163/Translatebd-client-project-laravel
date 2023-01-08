@@ -1,0 +1,8 @@
+User-Agent: *
+Crawl-delay: 20
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /* .pdf$
+Disallow: /category/
+Disallow: /tag/
+Sitemap: https://translatebd.com/sitemap_index.xml
